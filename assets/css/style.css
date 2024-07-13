@@ -645,6 +645,14 @@ section {
   color: #eaebf0;
 }
 
+.email-link{
+  border: 2px solid blue;
+  border-radius: 5px;
+  padding: 5px;
+  background-color: blue;
+  color: white
+  
+}
 @media (max-width: 1199px) {
   #footer {
     position: static;
